@@ -17,7 +17,7 @@ conn = win32com.client.Dispatch(r'ADODB.Connection')
 DSN = 'PROVIDER=Microsoft.ACE.OLEDB.12.0;DATA SOURCE=employees.accdb'
 #打开连接
 conn.Open(DSN)#这里也可以conn.Open(DSN) DSN内容和ConnectionString一致
-print("connect......")
+
 #打开已打开的数据库中的已有表或者视图表
 rs = win32com.client.Dispatch(r'ADODB.Recordset')
 rs_name = 'employee'
@@ -37,7 +37,6 @@ for row in eReader:
 	rs.MoveNext()
 	rs.Update()
 eFile.close()
-rs.close()
 
 '''
 def csv_to_xlsx():
