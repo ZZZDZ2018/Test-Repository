@@ -1,0 +1,10 @@
+C:\Users\v-zhzhu\source\repos\ClassLibrary2\ClassLibrary2\bin\Debug\ClassLibrary2.dll
+C:\Users\v-zhzhu\source\repos\ClassLibrary2\ClassLibrary2\bin\Debug\ClassLibrary2.pdb
+C:\Users\v-zhzhu\source\repos\ClassLibrary2\ClassLibrary2\bin\Debug\Microsoft.IdentityModel.Clients.ActiveDirectory.dll
+C:\Users\v-zhzhu\source\repos\ClassLibrary2\ClassLibrary2\bin\Debug\Microsoft.IdentityModel.Clients.ActiveDirectory.Platform.dll
+C:\Users\v-zhzhu\source\repos\ClassLibrary2\ClassLibrary2\bin\Debug\Microsoft.IdentityModel.Clients.ActiveDirectory.xml
+C:\Users\v-zhzhu\source\repos\ClassLibrary2\ClassLibrary2\bin\Debug\Microsoft.IdentityModel.Clients.ActiveDirectory.Platform.xml
+C:\Users\v-zhzhu\source\repos\ClassLibrary2\ClassLibrary2\obj\Debug\ClassLibrary2.csproj.CoreCompileInputs.cache
+C:\Users\v-zhzhu\source\repos\ClassLibrary2\ClassLibrary2\obj\Debug\ClassLibrary2.csproj.CopyComplete
+C:\Users\v-zhzhu\source\repos\ClassLibrary2\ClassLibrary2\obj\Debug\ClassLibrary2.dll
+C:\Users\v-zhzhu\source\repos\ClassLibrary2\ClassLibrary2\obj\Debug\ClassLibrary2.pdb
