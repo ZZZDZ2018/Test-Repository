@@ -14,7 +14,11 @@ ded8589a-b1f5-47e1-8a35-f20ef74b3bc2
 3.a valid AAD-provided JWT access token
 
 
+这个月到公司3个月了， 转正之前建议本人在本月内完成一次正式的转正汇报，汇报包括下面几个方面：
 
-
-
-{"errorCode":"Authorization_RequestDenied","localizedErrorDetails":{"errorDetail":"An administrator of Microsoft has set a policy that prevents you from granting TodoListDaemon the permissions it is requesting. Contact an administrator of Microsoft who can grant permissions to this application on your behalf."},"operationResults":null,"timeStampUtc":"2018-11-20T02:31:06.4766413Z","clientRequestId":"cb2b5c2a-69b6-4ea0-8cb0-ee78fa896051","internalTransactionId":"b2c6d72d-57d8-428f-ba4e-2c1ecf8b8c06","upn":"v-zhzhu@microsoft.com","tenantId":"72f988bf-86f1-41af-91ab-2d7cd011db47","userObjectId":null}
+汇报内容：主要是对这三个月的工作内容进行总结、梳理；自己的一些经验、待提高的方面及后续个人计划等；
+汇报格式：转正报告以PPT的格式来写（中文的或英文的都可以）；
+汇报对象：可以是Runtime北京的同事，也可以和美国的同事一起；
+汇报形式：基于转正报告，准备一个演讲/介绍，时间在10-15分钟；
+汇报时间：建议本月中旬左右完成（具体时间你来定，发一个Meeting Request）；
+其它： 如果有另外上面没有提到的，可以自己考虑加入；
