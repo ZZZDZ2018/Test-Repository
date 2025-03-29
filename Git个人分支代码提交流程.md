@@ -31,20 +31,25 @@
    ```bash
    git status
    ```
+   
+4. **查看变更内容**：
+ ```bash
+ git diff
+ ```
 
-4. **添加变更到暂存区**：
+5. **添加变更到暂存区**：
    ```bash
    git add <文件名>  # 添加特定文件
    或
    git add .         # 添加所有变更
    ```
 
-5. **提交变更**：
+6. **提交变更**：
    ```bash
    git commit -m "描述你的变更"
    ```
 
-6. **推送变更到远程个人分支**：
+7. **推送变更到远程个人分支**：
    ```bash
    git push origin your-branch-name
    ```
