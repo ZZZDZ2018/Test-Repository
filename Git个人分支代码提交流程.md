@@ -31,11 +31,10 @@
    ```bash
    git status
    ```
-   
 4. **查看变更内容**：
- ```bash
- git diff
- ```
+   ```bash
+   git diff
+   ```
 
 5. **添加变更到暂存区**：
    ```bash
@@ -72,7 +71,7 @@
 
 ## 4. 创建合并请求/拉取请求
 
-在GitHub/GitLab等平台上：
+在GitHub平台上：
 1. 导航到你的仓库
 2. 选择你的分支
 3. 点击"New Pull Request"或"Create Merge Request"
