@@ -65,13 +65,6 @@
   git rebase origin/main
   ```
 
-- **解决冲突**（如果有）
-
-- **再次推送**（特别是在rebase后）：
-  ```bash
-  git push -f origin your-branch-name  # 注意强制推送的风险
-  ```
-
 ## 4. 创建合并请求/拉取请求
 
 在GitHub/GitLab等平台上：
